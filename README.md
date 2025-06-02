@@ -13,4 +13,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brain-ai-create&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ai1)](https://solved.ac/profile/ai1)
 </p>
