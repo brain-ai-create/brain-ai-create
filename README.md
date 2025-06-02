@@ -1,15 +1,8 @@
 ## Hi 👋
 
-<!--
-**brain-ai-create/brain-ai-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## - 🧑‍💻I am a student who is majoring AI. 
 
-Here are some ideas to get you started:
+## -🌱I'm interested in Spiking Neural Network. 
 
-Hi!👋
+## -📫 I hope I could dedicate to this field someday!!
 
-- 🧑‍💻I am a student who is majoring AI. 
-
--🌱I'm interested in Spiking Neural Network. 
-
--📫 I hope I could dedicate to this field someday!!
--->
